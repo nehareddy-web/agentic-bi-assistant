@@ -91,7 +91,7 @@ Guardrail violations are not retried; execution errors are (the error message is
 
 <div align="center">
 <a href="https://github.com/nehareddy-web/agentic-bi-assistant/blob/main/agentic-bi-dashboard.png">
-<img src="https://raw.githubusercontent.com/nehareddy-web/agentic-bi-assistant/main/agentic-bi-dashboard.png" width="92%" alt="Evaluation dashboard"/>
+<img src="https://github.com/nehareddy-web/nehareddy-web/blob/main/agentic-bi-dashboard.png" width="92%" alt="Evaluation dashboard"/>
 </a>
 </div>
 
